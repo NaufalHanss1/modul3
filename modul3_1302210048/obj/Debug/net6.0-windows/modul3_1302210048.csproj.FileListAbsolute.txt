@@ -1,0 +1,17 @@
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\bin\Debug\net6.0-windows\modul3_1302210048.exe
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\bin\Debug\net6.0-windows\modul3_1302210048.deps.json
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\bin\Debug\net6.0-windows\modul3_1302210048.runtimeconfig.json
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\bin\Debug\net6.0-windows\modul3_1302210048.dll
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\bin\Debug\net6.0-windows\modul3_1302210048.pdb
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.Form1.resources
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.AssemblyInfoInputs.cache
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.AssemblyInfo.cs
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.dll
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\refint\modul3_1302210048.dll
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.pdb
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\modul3_1302210048.genruntimeconfig.cache
+C:\Users\PRAKTIKAN\source\repos\modul3_1302210048\modul3_1302210048\obj\Debug\net6.0-windows\ref\modul3_1302210048.dll
